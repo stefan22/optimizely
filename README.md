@@ -1,12 +1,10 @@
 # optimizely
-
-Is a coversion rate optimization tool.
+Is a conversion rate optimization tool.
 - deals with poor usability issues
 - website performance
 
 ### A/B testing
-a common name for a test that puts one or more variations of a page (or pages) against one another and measures how two variations perform against
-one another for specific defined metrics.
+a common name for a test that puts one or more variations of a page (or pages) against one another and measures how two variations perform against one another for specific defined metrics.
 
 ### Multivariate testing
 an experiment that has multiple variations of specific elements. The experiment is defined by selecting the elements and their variations.
